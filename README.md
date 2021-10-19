@@ -1,4 +1,4 @@
-# Generating Ethereum accounts in Javascript
+# Generating Ethereum accounts in Javascript - Simon Muia's Version
 
 Public key cryptography and digital signatures are a foundational technology that enable blockchains to work. In this project, you are going to get your hands dirty and understand how they work at the code level. You will be using Javascript and a simple web interface to see what is going on.
 
